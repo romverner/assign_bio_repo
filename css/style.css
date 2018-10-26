@@ -1,0 +1,44 @@
+body {
+    background-color: #efeee7;
+    font: "Georgio","Times New Roman","Times", "serif";
+    color: #333333;
+}
+
+header {
+    background-color: #333333;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+    padding: 15px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+    margin: 0 auto;
+    padding-left: 20px;
+}
+
+#main-bio, #contact-info, #bio-image {
+    float: left;
+}
+
+#main-bio {
+    width: 70%;
+}
+
+#contact-info {
+    width: 30%;
+    line-height: 1.5;
+}
+
+#bio-image {
+    width: 200px;
+    padding: 20px;
+}
+
+a:visited {
+    color: #d21034;
+}
